@@ -1,0 +1,17 @@
+A=RL
+A=NSX
+A=TLX
+B=X5
+B=i8
+B=M6
+H=Accent
+H=Elantra
+H=Kona
+J=Cherokee
+J=Wrangler
+J=Compass
+M=Protege
+M=Miata
+T=Model3
+T=ModelX
+T=ModelS
